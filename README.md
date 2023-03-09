@@ -1,5 +1,5 @@
 # UNSC For Us: An Interactive Exploration of UNSC Data
-Collected, cleaned, and processed United Nations Security Council resolution data to be used in an interactive data portal as a winter break project!
+Hi everyone! Over Winter Break, I collected, cleaned, and processed United Nations Security Council resolution data to be used in an interactive data portal :)
 
 ### Overview
 
