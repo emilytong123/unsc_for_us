@@ -1,0 +1,14 @@
+{
+    "Voila": {
+	"open_browser": false,
+	"autoreload": true,
+        "static_root": "web",
+        "tornado_settings": {
+            "headers": {"Cache-control": "\"no-cache\""}
+        }
+    },
+    "VoilaConfiguration": {
+	"file_whitelist": ".*\\.(png|jpg|jpeg|gif|svg|mp4|avi|ogg|html|css|js|ipynb|ico)",
+        "theme": "light"
+    }
+}
